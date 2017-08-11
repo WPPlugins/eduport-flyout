@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eduPort\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-22 11:27+0100\n"
+"PO-Revision-Date: 2016-04-22 13:23+0100\n"
+"Last-Translator: Jörn Lund <joern@podpirate.org>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/class-EduportAdmin.php:40 include/class-EduportSettings.php:33
+msgid "eduPort"
+msgstr "eduPort"
+
+#: include/class-EduportAdmin.php:50
+msgid "Show eduPort flyout"
+msgstr "eduPort Flyout anzeigen"
+
+#: include/class-EduportSettings.php:33 include/class-EduportSettings.php:41
+msgid "eduPort Settings"
+msgstr "eduPort Einstellungen"
+
+#: include/class-EduportSettings.php:37
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Sie haben nicht die erforderlichen Berechtigungen um diese Seite zu "
+"bearbeiten"
+
+#: include/class-EduportSettings.php:47
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: include/class-EduportSettings.php:71
+msgid "eduPort Flyout"
+msgstr "eduPort Flyout"
+
+#: include/class-EduportSettings.php:75
+msgid "eduPort Username"
+msgstr "eduPort Benutzername"
+
+#: include/class-EduportSettings.php:83
+msgid "Show Everywhere"
+msgstr "Überall anzeigen"
+
+#: include/class-EduportSettings.php:110
+msgid "Show eduPort flyout everywhere"
+msgstr "eduPort Flyout überall anzeigen"
+
+#: include/class-EduportSettings.php:113
+msgid ""
+"Uncheck this if you want to show the eduPort flyout only on specific posts "
+"or pages."
+msgstr ""
+"Wenn nicht ausgewählt können Sie das eduPort-Flyout nur auf bestimmten "
+"Seiten oder Beiträgen anzeigen lassen."
